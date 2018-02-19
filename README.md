@@ -1,7 +1,7 @@
 # Python pro Aplikované Vědy 
--- IPython sešity přednášek
+--- IPython sešity přednášek
 
-##Sylabus
+## Sylabus
 
 1. IPython - jednoduché počítání, kombinace textu a rovnic
 2. Python  - základní syntaxe, základní typy 
