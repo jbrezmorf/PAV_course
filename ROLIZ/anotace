@@ -1,0 +1,29 @@
+Python pro vědce
+
+Python je jednoduchý, ale flexibilní jazyk velmi používaný zejména pro vědecké výpočty, práci s daty a webové projekty. 
+Účastníci kurzu se naučí vytvářet jednoduché výpočetní a konverzní skripty a získají orientaci v rozsáhlém ekosytémy knihoven.
+Součástí kurzu bude i základní seznámení s nástrojem Git a službou GitHub pro verzování a sdílení zdrojových kódů.
+Předpokládá se základní znalost programování a jednoduché lineární algebry. Dále vlastní notebook s právy pro instalaci, systém Linux nebo Windows 10,
+funkční připojení přes Eduroam.
+
+Orientační program:
+Blok 1 (4 vyučovací hodiny)
+- Proč se naučit Python?
+- Instalace Pythonu a IDE PyCharm
+- Základy Pythonu: typy, příkazy, funkce, třídy
+- balíčkovací systém
+- práce s vektory a maticemi
+
+
+Blok 2 (4 vyučovací hodiny)
+- Git a Github
+- Práce se soubory, práce s datovými soubory.
+- pokročilý Python (comprehensions, exceptions, threads, typing, ...)
+- numerická matematika
+- IPython
+- vizualizace Matplotlib
+
+
+
+
+
