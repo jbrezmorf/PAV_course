@@ -13,3 +13,5 @@
 8. Paraview (příklad skriptování aplikací)
 9. MayaVi, VTK (3D vizualizace)
 10. Rezerva
+
+TODO: prepare rather single exercise every week then a single sminal work
