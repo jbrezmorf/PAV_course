@@ -1,0 +1,11 @@
+- uprava kodovani rucne 
+- dobre typy vizualizaci
+
+
+- mesice neusporadane podle poradi v roce, !!
+- chybi interpretace grafu
+- korelace by davala smysl mezi staty ve stejnem obdobi nikoliv mezi rokem a pocem pozaru, k tomu je treba udelat tabulku aby staty byly sloupce
+- vymazani necelociselnych poctu pozaru, mozna radeji zaokrouhleni ? Zobrazeni tech radku, kontrola.
+  ... implementovano rucne
+  
+- korelace poctu pozaru 

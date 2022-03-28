@@ -1,0 +1,11 @@
+- popis paprsku pomoci uhlu vuci ose X, asi lepe primo sinus, nebo tangens toho uhlu
+- trasovani kazdeho paprsku zvlast
+- vlastni implementace Newtonovy metody
+- pouziti Sympy pro vypocet derivace
+  bylo by lepsi provest symbolickou derivaci jen jednou a pak provadet jen jeji vyhodnoceni
+- zvladnuti netrivialni realne soustavy cocek
+- bezvadna vizualizace
+
+- reprezenace paprsku radeji otocene aby k bylo blizke 0
+- zlom == -1 rozdil bloku ? 
+- sympy funkce aplikace na numpy array 

@@ -1,0 +1,6 @@
+- funkce pro tvorbu celeho optickeho systemu pro sfericke cocky, primy vypocet derivace
+- interpolace funkce a jeji derivace - jiz asi zbytecne
+- vlastni implementace Newtonovy metody
+- trasovani paprsku zvlast
+- neobratne reseni koncoveho povrchu?? duplicitni kod
+- slovnik 'svazek' indexovan retezci, zde lepe list a indexace indexem paprsku
