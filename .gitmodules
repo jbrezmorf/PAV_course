@@ -1,0 +1,3 @@
+[submodule "PythonForAll"]
+	path = PythonForAll
+	url = git@github.com:jbrezmorf/PythonForAll.git
