@@ -6,7 +6,8 @@ view = CreateRenderView()
 
 # Initialize a new interactor
 iren = vtk.vtkRenderWindowInteractor()
-iren.SetInteractorStyle(vtk.vtkInteractorStyleTrackball())
+#iren.SetInteractorStyle(vtk.vtkInteractorStyleTrackball())
+iren.SetInteractorStyle(vtk.vtkInteractorStyleSwitch())
 iren.SetRenderWindow(view.GetRenderWindow())
 iren.Initialize()
 
@@ -16,10 +17,14 @@ iren.Initialize()
 sphere = Sphere(ThetaResolution=8, PhiResolution=12)
 
 # Apply a shrink filter
-shrink = Shrink(sphere)
+#shrink = Shrink(sphere)
+#shrink.ShrinkFactor = 0.9
 
 # Turn the visiblity of the shrink object on.
-Show(shrink)
+dp = GetDisplayProperties()
+
+Show(sphere)
+#Show(sphere)
 
 # Render the scene ( Sphere outline)
 Render()
