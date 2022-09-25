@@ -3,15 +3,14 @@
 
 ## Sylabus
 
-1. IPython - jednoduché počítání, kombinace textu a rovnic
+1. Jupyter - jednoduché počítání, kombinace textu a rovnic
 2. Python  - základní syntaxe, základní typy 
-3. Numpy   - vícerozměrná pole; vektory, matice, tenzory
-4. matplotlib - grafy v pythonu
+4. matplotlib - grafy v Pythonu
+3. Numpy - vícerozměrná pole; vektory, matice, tenzory
 5. SciPy - přehled, linearní algebra, interpolace, ODE, optimalizace, statistika
-6. Sympy - symbolické výpočty 
+6. Pandas - práce s daty v tabulkách 
+7. Python pokročilé techniky.
 7. distribuované výpočty, spouštění paralelních úloh
 8. Paraview (příklad skriptování aplikací)
-9. MayaVi, VTK (3D vizualizace)
 10. Rezerva
 
-TODO: prepare rather single exercise every week then a single sminal work
